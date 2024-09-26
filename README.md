@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, CSS, XML, HTML, Boostrap, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ardyansyah6859@gmail.com
-- 😄 Pronouns: alive
+- 😄 status: alive
 - ⚡ Fun fact: I love protein🍗
   
 <!---
