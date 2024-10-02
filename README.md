@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, CSS, XML, HTML, Boostrap, JavaScript, C, C#
 - 📫 How to reach me ardyansyah6859@gmail.com
 - 😄 status: alive
-- ⚡ Fun fact: I love protein🍗
+- ⚡ moodbooster : protein🍗
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ardyansyah3103&show_icons=true&locale=en&layout=compact" alt="Ardyansyah3103" /></p>
   
