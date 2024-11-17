@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardyansyah, jus call me Ardy
 - 👀 I’m interested in Web Development, Frontends, Software development, games, etc.
-- 🌱 I’m currently learning Java, CSS, XML, HTML, Boostrap, JavaScript, C, C#, PHP
+- 🌱 I’m currently learning Java, CSS, XML, HTML, Bootstrap, JavaScript, C, C#, PHP
 - 📫 How to reach me ardyansyah6859@gmail.com
 - 😄 status: alive
 - ⚡ moodbooster : protein🍗
