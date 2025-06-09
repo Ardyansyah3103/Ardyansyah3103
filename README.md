@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Frontends, Software development, games, etc.
 - 🌱 I’m currently learning Java, CSS, XML, HTML, Bootstrap, JavaScript, C, C#, PHP
 - 📫 How to reach me ardyansyah6859@gmail.com
-- 😄 Goal: success cuz of my passion
+- 😄 Goal: success
 - ⚡ moodbooster : protein🍗
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ardyansyah3103&show_icons=true&locale=en&layout=compact" alt="Ardyansyah3103" /></p>
