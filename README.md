@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ardyansyah3103&label=Profile%20views&color=0e75b6&style=flat" alt="myuga05" /> </p>
+
 # 💫 About Me:
  Hi, I’m Ardyansyah, just call me Ardy , I’m interested in Web app Development backend, Frontends, Software development, games, etc.<br>
 
